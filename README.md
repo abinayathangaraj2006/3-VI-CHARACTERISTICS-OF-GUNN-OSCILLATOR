@@ -53,19 +53,33 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
-**B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+**B.Observation: ( Include your own Table relevant to the Experiment)**
 
-**C.Analysis of Results: (Write your own)**
+<img width="790" height="589" alt="Screenshot 2026-03-26 212005" src="https://github.com/user-attachments/assets/ff2d408f-2705-4e42-8d73-9a79a4df2a5c" />
 
-(Include sample calculations/Display/plot/typical graph)
+**C.Analysis of Results: 
+The V–I characteristics of a Gunn diode clearly demonstrate negative differential resistance, which arises due to electron transfer between energy valleys under high electric fields. This unique behavior allows the Gunn diode to generate high-frequency microwave oscillations, making it highly useful in radar systems, communication devices, and signal generators.
+
+
 
 **D.Conclusions: (Write  your Own)**
+The V–I characteristics of a Gunn diode exhibit a unique behavior known as negative differential resistance (NDR). Unlike conventional diodes, the current initially increases with voltage, reaches a peak, and then decreases with further increase in voltage over a certain region. This occurs due to the transfer of electrons to a higher energy valley in the conduction band, reducing their mobility.
+
+This negative resistance region is the key feature that enables the Gunn diode to generate microwave oscillations without the need for a p–n junction. As a result, Gunn diodes are widely used in high-frequency applications such as oscillators, radar systems, and communication devices.
+
+Overall, the V–I characteristics highlight that the Gunn diode is not a typical rectifying device but a bulk-effect device, where its operation depends on the properties of the semiconductor material (like GaAs) rather than junction behavior. This makes it highly effective for high-speed and microwave frequency generation.
+
 
 **Precautions:**
 
 •	Check the connections before switching on the kit.
 •	Connections should be done properly.
 •	Observation should be taken properly.
+ Graph:
+ <img width="767" height="1030" alt="Screenshot 2026-03-26 211448" src="https://github.com/user-attachments/assets/bccfec46-0c49-46b3-b29d-63ff2466c754" />
 
-**Result:**
+**Result:
+**The I–V characteristics of the Gunn diode were plotted and the negative resistance region was identified. Peak voltage (Vₚ) = 2.5 V, Valley voltage (Vᵥ) = 5 V. Peak current (Iₚ) = 195 mA, Valley current (Iᵥ) = 175 mA. Calculated negative resistance (Rₙ) ≈ –125 Ω.
+
+
 
